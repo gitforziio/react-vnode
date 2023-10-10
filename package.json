@@ -1,0 +1,27 @@
+{
+  "name": "react-vnode",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A simple React utility for creating Vue style virtual dom render function.",
+  "license": "MIT",
+  "author": "ChunHui Sun",
+  "devDependencies": {
+    "classnames": "^2.3.2",
+    "react": "^18.2.0"
+  },
+  "keywords": [
+    "react",
+    "vnode",
+    "vue",
+    "render",
+    "render function",
+    "util",
+    "utility"
+  ],
+  "files": [
+    "HISTORY.md",
+    "LICENSE",
+    "README.md",
+    "*.js"
+  ]
+}
